@@ -1,0 +1,17 @@
+<resources>
+    <color name="screen_bg">#0B1118</color>
+    <color name="ink">#F4F7FA</color>
+    <color name="muted">#9AA7B6</color>
+    <color name="panel">#151D26</color>
+    <color name="accent">#39D353</color>
+    <color name="accent_dark">#1FAF3B</color>
+    <color name="blue">#3B82F6</color>
+    <color name="blue_dark">#2563C7</color>
+    <color name="orange">#F59E0B</color>
+    <color name="orange_dark">#D97706</color>
+    <color name="danger">#FF5C68</color>
+    <color name="line">#273340</color>
+    <color name="soft_green">#102D20</color>
+    <color name="soft_blue">#102A48</color>
+    <color name="warning_soft">#17232E</color>
+</resources>
